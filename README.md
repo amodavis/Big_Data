@@ -1,3 +1,4 @@
-# Big Data and Deep Learning
+# Deep Learning
 
-DSC650: Designing Databases; Deep Learning with Keras
+## Description
+Deep Learning with Keras
