@@ -3,7 +3,7 @@
 ## Description
 Deep Learning with Keras
 
-# Credits
+## Credits
 This file contains code from Deep Learning with Python
 
 www.manning.com/books/deep-learning-with-python
